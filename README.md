@@ -1,6 +1,6 @@
 # liquid-iron
 
-dynamic structure factor (DSF) $S(k,w)$ of liquid iron, calculated with deep potential molecular dynamics (DPMD) simulations under NVT ensemble (isochoric isothermal), more details see ()
+dynamic structure factor (DSF) $S(k,w)$ of liquid iron, calculated with deep potential molecular dynamics (DPMD) simulations under NVT ensemble (isochoric isothermal), more details see [Acta Phys. Sin., 2023, 72(18): 187102](https://doi.org/10.7498/aps.72.20231258)
 
 | directory |lattice constant (angstrom) | density (g/cm^3) | pressure (GPa) | temperature (Kelvin) |
 | - | - | - | - | - |
